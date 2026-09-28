@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeanpierreroma.github.io/sitemap-index.xml
